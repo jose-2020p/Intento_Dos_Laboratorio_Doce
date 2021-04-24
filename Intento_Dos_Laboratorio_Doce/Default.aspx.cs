@@ -44,7 +44,7 @@ namespace Intento_Dos_Laboratorio_Doce
                 {
                     for (int a = 0; a < curso_array.Count(); a++) 
                     {
-                        estudiante_array[i].Vector_curso[a] = TextBoxCurso.Text;
+                        //estudiante_array[i].Vector_curso[a] = TextBoxCurso.Text;
                     
                     }
                     // intento 2
